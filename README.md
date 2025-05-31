@@ -56,7 +56,7 @@ A modern, full-featured equipment rental management dashboard built with React, 
 
 2. Navigate to the project directory:
    ```bash
-   cd equipment-rental-dashboard
+   cd Equipment-Management-Dashboard
    ```
 
 3. Install dependencies:
