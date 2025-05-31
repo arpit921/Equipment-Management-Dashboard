@@ -49,7 +49,10 @@ A modern, full-featured equipment rental management dashboard built with React, 
 
 ### Installation
 
-
+1. Clone the repository:
+   ```bash
+   https://github.com/arpit921/Equipment-Management-Dashboard.git
+   ```
 
 2. Navigate to the project directory:
    ```bash
